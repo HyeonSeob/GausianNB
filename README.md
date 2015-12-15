@@ -1,4 +1,4 @@
-# 빅데이터 처리
+# BigData Processing Class
 ## Term Project
 
-BALLOZZAM.
+BALLOZZAM
